@@ -1,3 +1,5 @@
+#!/bin/bash
+
 NDK=/your/path/to/android-ndk
 PREBUILT=$NDK/toolchains/arm-linux-androideabi-4.4.3/prebuilt
 PLATFORM=$NDK/platforms/android-14/arch-arm
